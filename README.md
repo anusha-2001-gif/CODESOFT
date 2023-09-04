@@ -5,5 +5,5 @@ After each round, the user's score is calculated based on the number of remainin
 At the end of the game, the total rounds played and the total score are displayed.
 
 **ATM interface**:
-Java program that implements the ATM machine functionalities by allowing user to check the balanance,depositing and withdrawing money along with displaying appropriate messages.
+Java program that implements the ATM machine functionalities by allowing user to check the balance,depositing and withdrawing money along with displaying appropriate messages.
 
